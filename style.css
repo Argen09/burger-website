@@ -1,0 +1,223 @@
+body{
+    margin: 0;
+    background-image: url(./bg.png);
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text{
+    display: block;
+    margin-left: 200px;
+    margin-top: 90px;
+}
+
+.text h1{
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.text h2{
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 65px;
+    margin-top: -4px;
+}
+
+.text h3{
+    font-weight: 100;
+    font-size: 10px;
+    font-family: Arial, sans-serif;
+    color: 
+    #FAF9F9;
+    margin-top: -15px;
+}
+
+.text button{
+    height: 58px;
+    width: 170px;
+    border-radius: 5px;
+    border: 0;
+    background-color: orange;
+    color: #1E2F40;
+    margin-top: 20px;
+    transition: 0.3s;
+}
+
+.text button:hover{
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    background: rgb(241, 157, 0);
+    transition: 0.3s;
+}
+
+
+.burger{
+    margin-left: 830px;
+    margin-top: -505px;
+}
+.Burger2{
+    width: 100px;
+    height: 100px;
+    background-size: 20px;
+    margin-top: -200px;
+}
+
+.burger-img {
+    margin-top: -1000px;
+    margin-left: -200px;
+}
+
+.content{
+    background-color: white;
+    height: 780px;
+}
+
+.content img {
+    margin-left: 120px;
+}
+
+.b1 {   
+    margin-top: 120px;
+    margin-left: 175px;
+}
+
+.bg1 {
+    background-image: url(./bacon-cheese-burger-with-beef-patty-tomato-onion-P2N635W\ \(1\).png);
+    background-repeat: no-repeat;
+    height: 395px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.bg1 button {
+    background-color:orange;
+    width: 100px;
+    height: 28px;
+    border-radius: 30px;
+    border: 0;
+    color: #fff;
+    font-size: 15px;
+    margin-left: 60px;
+    margin-top: 100px;
+    cursor: pointer;
+}
+
+.bg1 h1 {
+    margin-left: 50px;
+    font-size: 60px;
+    color: #fff;
+}
+
+.bg1 p{
+    color: #fff;
+    margin-left: 50px;
+    font-weight: 200;
+    margin-top: -20px;
+}
+
+
+.bg2 {
+    background-image: url(./fresh-tasty-burger-PTESKZ7\ \(1\).png);
+    background-repeat: no-repeat;
+    height: 395px;
+    color: #fff;
+    margin-left: 750px;
+    margin-top: -415px;
+}
+
+.bg2 button {
+    background-color: rgb(255, 181, 45);
+    border: 0;
+    margin-left: 50px;
+    margin-top: 60px;
+    width: 120px;
+    height: 40px;
+    border-radius: 6px;
+    color: #fff;
+    transition: 0.3;
+    cursor: pointer;
+
+}
+
+.bg2 button :hover {
+    cursor: pointer;
+    color: #fff;
+    background: rgb(196, 136, 26);
+}
+
+.bg2 h1{
+    color: #fff;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.bg2 p{
+    margin-left: 50px;
+    color: #b8b5b5;
+    margin-top: 10px;
+}
+
+.line {
+    width: 10px;
+    height: 200px;
+    margin-top: 83px;
+}
+
+.footer{
+    height: 403px;
+    width: 1920px;
+    background: #1E2F40;
+    margin-top: 120px;
+}
+
+.footer img{
+    margin-top: 130px;
+    margin-left: 200px;
+    cursor: pointer;
+}
+
+.footer h2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -70px;
+    font-size: 35px;
+    margin-left: 400px;
+    color: #fff;
+}
+
+.footer h5{
+    margin-left: 400px;
+    color: #ffffff9c;
+}
+
+.consol h2{
+    margin-left: 700px;
+    margin-top: -220px;
+}
+
+
+.consol h5{
+    margin-left: 700px;
+    font-weight: 400;
+}
+
+.log h5 {
+    font-weight: 400;
+}
+
+.const h3{
+    margin-top: -120px;
+    margin-left: 1000px;
+    color: #FBB731;
+    height: 40px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.const h3 :hover{
+    cursor: pointer;
+    background: #fff700;
+    color: #f2ff00;
+    transition: 0.3s;
+}
